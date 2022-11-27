@@ -43,7 +43,7 @@ const About = () => {
           </div>
 
           <p>
-          As a web and software developer, I try to have keen analytical skills to create a variety of successful websites. I am someone who is responsible for their design and construcution. And someone, who ensure that applications meet user expectations by ensuring they look good, run smoothly and offer easy access points. I have also created an extension for the chrome browser. As a seasoned and forward-looking full-stack web and software developer, I have experience in the design, development, testing, and maintenance of websites. Equipped with a diverse and promising skill set, I have expertise in programming, and in-depth knowledge of developer tools and languages. I am driven in thinking outside the box to find unique solutions to difficult problems. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge.
+          As a web and software developer, I try to have keen analytical skills to create a variety of successful websites. I am someone who is responsible for their design and construcution. And someone, who ensure that applications meet user expectations by ensuring they look good, run smoothly and offer easy access points. I have also created an extension for the chrome browser. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

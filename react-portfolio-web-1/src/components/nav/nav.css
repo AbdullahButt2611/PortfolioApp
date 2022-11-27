@@ -30,3 +30,28 @@ nav a.active{
     background: var(--color-bg);
     color: var(--color-white);
 }
+
+
+/* ===================  MEDIA QUEIES (MEDIUM DEVICES)   ======================== */
+@media screen and (max-width: 1024px) {
+    nav{
+        right: 30%;
+        bottom: -5%;
+    }
+}
+
+
+/* ===================  MEDIA QUEIES (SMALL DEVICES)   ======================== */
+@media screen and (max-width: 600px) {
+    nav{
+        left: 10%;
+        bottom: -10%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    nav{
+        left: 5%;
+        bottom: -10%;
+    }
+}
