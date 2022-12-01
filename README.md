@@ -7,6 +7,7 @@
 Following are some of the new features and learning encountered while creating this amazing project:
 
 - The usage of article and small tags have been encouraged in the making of this project. The ideology behind these two tags have been understood and implemented keenly.
+- A new CSS Property `height: fit-content;` to manage the height of the content on the basis of the content inside the element tag.
 <br><br>
 
 ## Resources
