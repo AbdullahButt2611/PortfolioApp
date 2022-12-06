@@ -26,4 +26,49 @@
     box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);
 }
 
-/* 2:00:00 */
+.service__head h3{
+    color: var(--color-bg);
+    font-size: 1rem;
+    text-align: center;
+}
+
+.service__list{
+    padding: 2rem;
+}
+
+.service__list li{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+}
+
+.service__list-icon{
+    color: var(--color-primary);
+    margin-top: 2px;
+}
+
+.service__list p{
+    font-size: 0.9rem;
+}
+
+
+/* ===================  MEDIA QUEIES (MEDIUM DEVICES)   ======================== */
+@media screen and (max-width: 1024px) {
+    .services__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+
+    .service{
+        height: auto;
+    }
+}
+
+
+/* ===================  MEDIA QUEIES (SMALL DEVICES)   ======================== */
+@media screen and (max-width: 600px) {
+    .services__container{
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
