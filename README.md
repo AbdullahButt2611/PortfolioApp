@@ -9,6 +9,10 @@ Following are some of the new features and learning encountered while creating t
 - The usage of article and small tags have been encouraged in the making of this project. The ideology behind these two tags have been understood and implemented keenly.
 - A new CSS Property `height: fit-content;` to manage the height of the content on the basis of the content inside the element tag.
 - Generating new cards and inserting data dynamically in REACT.
+- We can send message directly to the WhatsApp by simply clicking on the button and then start our conversation. We just need to remember the following code 
+```
+ <a href="https://api.whatsapp.com/send?phone=03171315622" target="_blank">Let's Chat</a>
+```
 <br><br>
 
 ## Resources
@@ -34,6 +38,7 @@ Follwing technologies have been used at the core of this application to make it 
 - HTML
 - CSS
 - REACT Framework
+- WhatsApp API
 <br><br>
 
 ## Advancement
