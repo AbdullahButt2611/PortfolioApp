@@ -13,6 +13,7 @@ Following are some of the new features and learning encountered while creating t
 ```
  <a href="https://api.whatsapp.com/send?phone=03171315622" target="_blank">Let's Chat</a>
 ```
+- Sending email through form to our Gmail using EmailJS library
 <br><br>
 
 ## Resources
@@ -20,6 +21,7 @@ Following are some of the new features and learning encountered while creating t
 Follwing resources have been used in maintaining this project:
 
 - [React Icons](https://react-icons.github.io/react-icons/) library has been used to import the icons used in this project
+- [EmailJS](https://www.emailjs.com/) to connect our form with our gmail to receive all the emails there.
 <br><br>
 
 ## Demo
