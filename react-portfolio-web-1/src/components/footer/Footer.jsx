@@ -10,7 +10,7 @@ import {AiOutlineUnorderedList} from 'react-icons/ai'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" footer__logo>MAB</a>
+      <a href="#" className="footer__logo">MAB</a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
@@ -29,6 +29,10 @@ const Footer = () => {
         <a href="https://github.com/AbdullahButt2611"><BsGithub /></a>
         <a href="https://rebrand.ly/MuhammadAbdullahButt_MABCORP"><BsBriefcase /></a>
         <a href="https://rebrand.ly/ProjectDisplayer_MABCORP"><AiOutlineUnorderedList /></a>
+      </div>
+
+      <div className="footer__copyright">
+        <small>&copy; MAB CORP. All rights reserved</small>
       </div>
     </footer>
   )
