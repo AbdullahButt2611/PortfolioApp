@@ -25,12 +25,18 @@ Follwing resources have been used in maintaining this project:
 <br><br>
 
 ## Demo
+
+The Demo of this working portfolio can be found on <br>
+[rebrand.ly/ReactPortfolioBlue_MABCORP](https://rebrand.ly/ReactPortfolioBlue_MABCORP)
 <br><br>
 
 ## Link To Video
 <br><br>
 
 ## GUI
+
+![Demo Image](react-portfolio-web-1/src/assets/Demo.png)
+
 <br><br>
 
 ## Technology Stack
@@ -44,6 +50,7 @@ Follwing technologies have been used at the core of this application to make it 
 <br><br>
 
 ## Advancement
+> A testimonial section can be added with the SwiperJS library embedded in it
 <br><br>
 
 ## Deployment Details
